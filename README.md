@@ -104,7 +104,7 @@ The dataset contains grocery sales data across multiple outlets with the followi
 ---
 
 ##  Dashboard Preview
-The complete Power BI dashboard is available as a PDF in the `dashboard/` folder.
+The complete Power BI dashboard is available as a PDF in the `[dashboard/](https://drive.google.com/file/d/1ODEL_FjqikmdffEiGLmpnJu-u4ATigFy/view?usp=sharing)` folder.
 
 ---
 
